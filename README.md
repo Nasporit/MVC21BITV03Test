@@ -1,4 +1,4 @@
 # MVC21BITV03Test
 Nguyễn Anh Sơn-2100011754
 Nguyễn Lương Nhật Trung-21000006019
-Lê Chí Nghĩa-21000008342
+Lê Trí Nghĩa-21000008342
